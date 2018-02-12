@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyJobScheduler/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyJobScheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2230b3db6e9edbbcb4a85a9f68a039bcf2b375ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyJobScheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_0379928ff66a5bc0c6cf3ae2e47b81ace0d2f0ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyJobScheduler/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e43ad26a50fc8c18415224de58866e38648c4ea7">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyJobScheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a5a63630d68fee485a400fba475b3e72a27bd16a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyJobScheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_f17f0990564f2cd144259e690c2e80f24234304d/classes.dex" />
+    </item>
+
+</items>
