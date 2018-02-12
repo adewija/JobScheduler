@@ -10,4 +10,4 @@ Menu :
 
 Notification :
 
-<img src="https://github.com/AdeWijaNugraha/JobScheduler/blob/master/screenshot/21780.jpg: width="250">
+<img src="https://github.com/AdeWijaNugraha/JobScheduler/blob/master/screenshot/21780.jpg" width="250">
